@@ -4,7 +4,8 @@ Manager Script
 
 VERSION ORIGINAL:
 
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/NEW-ULTIMATE-FREE/master/instalar.sh; chmod 777 instalar.sh* && ./instalar.sh*
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-ULTIMATE-FREE
+/master/instalar.sh; chmod 777 instalar.sh* && ./instalar.sh*
 
 
 
