@@ -1,4 +1,4 @@
-# NEW-ULTIMATE-FREE
+# ADM-ULTIMATE-FREE
 
 Manager Script
 
