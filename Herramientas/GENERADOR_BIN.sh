@@ -1,6 +1,6 @@
 #!/bin/bash
 # Bin _ Gen #OFC
-link_bin="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-ULTIMATE-NEW-FREE/master/Install/generadorcc.py" > /dev/null
+link_bin="https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-ULTIMATE-NEW-FREE/master/Install/generadorcc.py"
 [[ ! -e /usr/bin/generadorcc.py ]] && wget -O /usr/bin/generadorcc.py ${link_bin} > /dev/null && chmod +x /usr/bin/generadorcc.py
 msg -ama "$(fun_trans "GERADOR DE BINS OFICIAL")"
 msg -bar
